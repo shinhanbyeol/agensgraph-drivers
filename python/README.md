@@ -6,6 +6,10 @@ AgensGraph Python Driver allows Python programs to connect to an AgensGraph data
 - Cypher query support for Psycopg2 PostgreSQL Python driver (enables cypher queries directly)
 - Deserialize AgensGraph results (AGType) to Vertex, Edge, Path
 
+## Install for PYPI
+```sh
+pip install agensgraph-python
+```
 ## Build From Source
 
 ```sh

@@ -42,8 +42,7 @@ To get started with a specific driver, navigate to its subdirectory and follow t
 
 Example:
 ```
-cd python
-pip install agensgraph
+pip install agensgraph-python
 ```
 You can also explore examples and usage guides in each subdirectory.
 
